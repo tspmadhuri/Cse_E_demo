@@ -1,4 +1,4 @@
-red
-blue
-green
+purple
 yellow
+pink
+violet
