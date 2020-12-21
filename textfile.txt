@@ -2,3 +2,4 @@ purple
 yellow
 pink
 violet
+indigo
